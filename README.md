@@ -20,7 +20,7 @@ python3 get-pip.py --force-reinstall
 apt install git-lfs
 git lfs install
 git clone https://github.com/dhritzz/laughing-lamp
-%cd vits-models
+%cd laughing-lamp
 
 python3 -m pip install pip==21.3.1
 python3 -m pip install -r requirements.txt
