@@ -149,6 +149,7 @@ if __name__ == '__main__':
             "# <center> vits-models\n"
             "## <center> Please do not generate content that could infringe upon the rights or cause harm to individuals or organizations.\n"
             "## <center> Made by: Dhritzz (Dahlah230/Dahlah270)\n\n"
+            "## Original creator: svc-develop-team"
         )
 
         with gr.Tabs():
