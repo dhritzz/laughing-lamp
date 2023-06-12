@@ -10,6 +10,8 @@ pinned: false
 license: apache-2.0
 ---
 
+Origina creator: svc-develop-team
+
 Run:
 ```nvidia-smi
 sudo apt-get install python3.8 python3.8-dev python3.8-distutils libpython3.8-dev
